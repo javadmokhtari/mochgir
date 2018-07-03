@@ -69,12 +69,6 @@ Mochgir is a small-tool for detecting plagiarism. It's lightweight and written w
 
 >>> document_path = 'C:\ppp.docx'
 >>> Translate.translate_document(document_path)
->>> 'In the name of god A minimum spanning tree of a connected graph using the  and  algorithm student number: 9072902801 Find the optimal spanning tree of the subgraph by using the  or  algorithm. Solution by U
-sing Prime  The priority of the steps from the left is to the right. Note: During the steps it should not be a half - round or distant. (We ignore the  that make up.) Starting an algorithm from the arbitrary
- vertex A We choose the path with at least the possible cost attached to vertex A. We choose the route with at least the possible cost between the nodes attached to A and B. Let " s continue until all vertic
-es are met. Solution by  Algorithm: The priority of the steps from the left is to the right. Note: During the steps, it should not be a half - round or distant. (We ignore the  that make up.) the edges and w
-eigh the edges, respectively. Starting from the edge with minimal cost, we connect the vertices of the two sides by the corresponding edge. Find the next smallest edge and repeat the step 2. Let " s continue
- until all vertices are met. Note: During the minimum spanning tree spanning tree, the forest is possible to form, as in the following figure, but eventually the connection is minimized by connecting these f
-orests to the final form of a minimum spanning tree.'
+>>> 'In the name of god A minimum spanning tree of a connected graph ....'
 
 ```
