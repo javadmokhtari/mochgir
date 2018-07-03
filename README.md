@@ -1,27 +1,28 @@
 # Proof Of Concept
 1. [Introduction](https://github.com/javadmokhtari/mochgir/blob/master/README.md#1-introduction)
-2. [Installation](http://www.google.com)
+2. [Installation](https://github.com/javadmokhtari/mochgir#2-installation)
 
-    2.1 [Install Using Pip](http://www.google.com)
+    2.1 [Install Using Pip](https://github.com/javadmokhtari/mochgir#21-using-pip)
     
-    2.2 [Install From Source Code](http://www.google.com)
+    2.2 [Install From Source Code](https://github.com/javadmokhtari/mochgir#22-install-from-source)
     
-3. [Examples](http://www.google.com)
+3. [Examples](https://github.com/javadmokhtari/mochgir#3-examples)
 
-    3.1 [Translating A String](http://www.google.com)
+    3.1 [Translating A String](https://github.com/javadmokhtari/mochgir#31-translating-a-string)
     
-    3.2 [Translating A List of Strings](http://www.google.com)
+    3.2 [Translating A List of Strings](https://github.com/javadmokhtari/mochgir#32-translating-list-of-strings)
     
-    3.3 [Translating A Document](http://www.google.com)
+    3.3 [Translating A Document](https://github.com/javadmokhtari/mochgir#33-translating-a-document)
     
-    3.4 [Analyzing A String](http://www.google.com)
+    3.4 [Analyzing A String](https://github.com/javadmokhtari/mochgir#34-analyzing-a-string)
     
-    3.5 [Analyzing A List of Strings](http://www.google.com)
+    3.5 [Analyzing A List of Strings](https://github.com/javadmokhtari/mochgir#35-analyzing-a-list-of-strings)
     
-    3.6 [Analyzing A Document](http://www.google.com)
+    3.6 [Analyzing A Document](https://github.com/javadmokhtari/mochgir#36-analyzing-a-document)
     
-4. [Requirements](http://www.google.com)
-5. [Credit](http://www.google.com)
+4. [Requirements](https://github.com/javadmokhtari/mochgir#4-requirements)
+5. [License](https://github.com/javadmokhtari/mochgir#5-licence)
+5. [Credit](https://github.com/javadmokhtari/mochgir#6-credit)
 
 # 1. Introduction
 Mochgir is a small-tool for detecting plagiarism. It's lightweight and written with Python 3. You can analyze a document and detect possible scientific thiefs. Despite of it's usage in scientific detection, it can be used as a persian-to-english translator.
