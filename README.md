@@ -55,10 +55,11 @@ Mochgir is a small-tool for detecting plagiarism. It's lightweight and written w
 ```
    ### 3.2 Translating List of Texts
    ```python
- from mochgir import Translate
+>>> from mochgir import Translate
 
-text_list = ['امروز کلاس رفتی؟', 'چرا یهو درس ها سخت شد؟', 'می تونم یک ساعت دیگه با شما تماس بگیرم؟']
-Translate.translate_list(text_list)  
+>>> text_list = ['امروز کلاس رفتی؟', 'چرا یهو درس ها سخت شد؟', 'می تونم یک ساعت دیگه با شما تماس بگیرم؟']
+>>> Translate.translate_list(text_list)
+>>> ['Did you go to class today?', 'Why are the lessons suddenly difficult?', 'Can I call you in an hour?']
 ```
 
     
