@@ -112,3 +112,6 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+# 6. Credit
+Created by Javad M. Koushyar. This is an educational purpose project, so there is no warranty for it. Thank You!
