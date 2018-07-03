@@ -24,7 +24,7 @@
 5. [Credit](http://www.google.com)
 
 # 1. Introduction
-Mochgir is a small-tool for detecting plagiarism. It's lightweight and written with Python 3. You can analyze a document and detect possible sceintific thiefs.
+Mochgir is a small-tool for detecting plagiarism. It's lightweight and written with Python 3. You can analyze a document and detect possible scientific thiefs. Despite of it's usage in scientific detection, it can be used as a persian-to-english translator.
 
 # 2. Installation
    ### 2.1 Using Pip
