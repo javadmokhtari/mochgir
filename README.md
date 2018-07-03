@@ -1,5 +1,5 @@
 # Proof Of Concept
-1. [Introduction](http://www.google.com)
+1. [Introduction](https://github.com/javadmokhtari/mochgir/blob/master/README.md#1-introduction)
 2. [Installation](http://www.google.com)
 
     2.1 [Install Using Pip](http://www.google.com)
