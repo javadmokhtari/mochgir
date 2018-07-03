@@ -30,3 +30,9 @@ Mochgir is a small-tool for detecting plagiarism. It's lightweight and written w
    ### 2.1 Using Pip
    you can install mochgir on Windows, Linux and MAC OS using pip:
    `pip install mochgir`
+   ### Install From Source
+   we recommend you to install mochgir with pip, but for any reason you may want to install mochgir from source code. Here is the instruction:
+        a) Download This repository
+        b) Uncompress it wherever you want
+        b) Open Terminal / Command Line and go to uncompressed directory
+        c) Run this command:
