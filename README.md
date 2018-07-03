@@ -52,4 +52,12 @@ from mochgir import Translate
 text = 'سلام، امیدوارم حالت خوب باشه رفیق'
 Translate.translate(text)
 ```
+   ### 3.2 Translating List of Texts
+   ```python
+ from mochgir import Translate
+
+text_list = ['امروز کلاس رفتی؟', 'چرا یهو درس ها سخت شد؟', 'می تونم یک ساعت دیگه با شما تماس بگیرم؟']
+Translate.translate_list(text_list)  
+```
+
     
