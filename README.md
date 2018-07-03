@@ -10,13 +10,13 @@
 
     3.1 [Translating A String](http://www.google.com)
     
-    3.2 [Translating A List of Texts](http://www.google.com)
+    3.2 [Translating A List of Strings](http://www.google.com)
     
     3.3 [Translating A Document](http://www.google.com)
     
-    3.4 [Analyzing A Text](http://www.google.com)
+    3.4 [Analyzing A String](http://www.google.com)
     
-    3.5 [Analyzing A List of Texts](http://www.google.com)
+    3.5 [Analyzing A List of Strings](http://www.google.com)
     
     3.6 [Analyzing A Document](http://www.google.com)
     
@@ -51,7 +51,7 @@ Mochgir is a small-tool for detecting plagiarism. It's lightweight and written w
 >>> Translate.translate(text)
 >>> "Hey, I hope you 're okay , buddy."
 ```
-   ### 3.2 Translating List of Texts
+   ### 3.2 Translating List of Strings
    ```python
 >>> from mochgir import Translate
 >>> text_list = ['امروز کلاس رفتی؟', 'چرا یهو درس ها سخت شد؟', 'می تونم یک ساعت دیگه با شما تماس بگیرم؟']
@@ -65,5 +65,31 @@ Mochgir is a small-tool for detecting plagiarism. It's lightweight and written w
 >>> document_path = 'C:\ppp.docx'
 >>> Translate.translate_document(document_path)
 >>> 'In the name of god A minimum spanning tree of a connected graph ....'
+```
 
+   ### 3.4 Analyzing A String
+   ```python
+>>> from mochgir import Translate
+>>> from mochgir import Analyze
+>>> text = 'سلام، امیدوارم حالت خوب باشه رفیق'
+>>> trasnlated_text = Translate.translate(text)
+>>> result = Analyze.analyze(translated_text)
+```
+
+   ### 3.5 Analyzing A List of Strings
+   ```python
+>>> from mochgir import Translate
+>>> from mochgir import Analyze
+>>> text_list = ['امروز کلاس رفتی؟', 'چرا یهو درس ها سخت شد؟', 'می تونم یک ساعت دیگه با شما تماس بگیرم؟']
+>>> translated_list = Translate.translate_list(text_list)
+>>> result = Analyze.analyze_list(translated_list)
+```
+
+   ### 3.6 Analyzing A Document
+   ```python
+>>> from mochgir import Translate
+>>> from mochgir import Analyze
+>>> document_path = 'C:\ppp.docx'
+>>> translated_document = Translate.translate_document(document_path)
+>>> result = Analyze.analyze(translated_document)
 ```
