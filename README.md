@@ -22,3 +22,6 @@
     
 4. [Requirements](http://www.google.com)
 5. [Credit](http://www.google.com)
+
+# 1. Introduction
+Mochgir is a small-tool for detecting plagiarism. It's lightweight and written with Python 3. You can analyze a document and detect possible sceintific thiefs.
