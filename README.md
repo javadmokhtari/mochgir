@@ -37,9 +37,18 @@ Mochgir is a small-tool for detecting plagiarism. It's lightweight and written w
    
    &nbsp;&nbsp;**b**) Uncompress it wherever you want
    
-   &nbsp;&nbsp;**b**) Open Terminal / Command Line and go to uncompressed directory
+   &nbsp;&nbsp;**c**) Open Terminal / Command Line and go to uncompressed directory
    
-   &nbsp;&nbsp;**c**) Run this command: `python setup.py install`
+   &nbsp;&nbsp;**d**) Run this command: `python setup.py install`
    
    Note: you must use python 3 to install mochgir.
    
+# 3. Examples
+   ### 3.1 Translating A String
+   `
+        from mochgir import Translate
+
+
+        text = 'سلام، امیدوارم حالت خوب باشه رفیق'
+        Translate.translate(text)
+        `
