@@ -47,16 +47,13 @@ Mochgir is a small-tool for detecting plagiarism. It's lightweight and written w
    ### 3.1 Translating A String
    ```python
 >>> from mochgir import Translate
-
-
 >>> text = 'سلام، امیدوارم حالت خوب باشه رفیق'
 >>> Translate.translate(text)
->>> 'Hey, I hope you 're okay , buddy.'
+>>> "Hey, I hope you 're okay , buddy."
 ```
    ### 3.2 Translating List of Texts
    ```python
 >>> from mochgir import Translate
-
 >>> text_list = ['امروز کلاس رفتی؟', 'چرا یهو درس ها سخت شد؟', 'می تونم یک ساعت دیگه با شما تماس بگیرم؟']
 >>> Translate.translate_list(text_list)
 >>> ['Did you go to class today?', 'Why are the lessons suddenly difficult?', 'Can I call you in an hour?']
@@ -65,8 +62,6 @@ Mochgir is a small-tool for detecting plagiarism. It's lightweight and written w
    ### 3.3 Translating A Document
    ```python
 >>> from mochgir import Translate
-
-
 >>> document_path = 'C:\ppp.docx'
 >>> Translate.translate_document(document_path)
 >>> 'In the name of god A minimum spanning tree of a connected graph ....'
