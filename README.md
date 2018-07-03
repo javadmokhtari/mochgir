@@ -33,11 +33,11 @@ Mochgir is a small-tool for detecting plagiarism. It's lightweight and written w
    ### 2.2 Install From Source
    we recommend you to install mochgir with pip, but for any reason you may want to install mochgir from source code. Here is the instruction:
    
-   &nbsp;&nbsp;a) Download This repository
+   &nbsp;&nbsp;**a**) Download This repository
    
-   &nbsp;&nbsp;b) Uncompress it wherever you want
+   &nbsp;&nbsp;**b**) Uncompress it wherever you want
    
-   &nbsp;&nbsp;b) Open Terminal / Command Line and go to uncompressed directory
+   &nbsp;&nbsp;**b**) Open Terminal / Command Line and go to uncompressed directory
    
-   &nbsp;&nbsp;c) Run this command:
+   &nbsp;&nbsp;**c**) Run this command:
    
