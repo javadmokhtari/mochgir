@@ -45,11 +45,10 @@ Mochgir is a small-tool for detecting plagiarism. It's lightweight and written w
    
 # 3. Examples
    ### 3.1 Translating A String
-   `
-        
-        from mochgir import Translate
+   ```
+   from mochgir import Translate
 
 
-        text = 'سلام، امیدوارم حالت خوب باشه رفیق'
-        Translate.translate(text)
-        `
+    text = 'سلام، امیدوارم حالت خوب باشه رفیق'
+    Translate.translate(text)
+    ```
