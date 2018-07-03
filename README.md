@@ -1,6 +1,6 @@
 # Proof Of Concept
-## 1. Introduction
-## 2. Installation
+1. Introduction
+2. Installation
 
     2.1 Install Using Pip
     
