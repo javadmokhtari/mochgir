@@ -20,7 +20,7 @@
     
     3.6 [Analyzing A Document](https://github.com/javadmokhtari/mochgir#36-analyzing-a-document)
     
-    3.7 [Exporting Result](http://www.google.com)
+    3.7 [Exporting Result](https://github.com/javadmokhtari/mochgir/blob/master/README.md#37-exporting-result)
     
 4. [Requirements](https://github.com/javadmokhtari/mochgir#4-requirements)
 5. [License](https://github.com/javadmokhtari/mochgir#5-licence)
@@ -105,6 +105,8 @@ Mochgir is a small-tool for detecting plagiarism. It's lightweight and written w
 *requests>=2.19.1*
 
 *docx>=0.2.4*
+
+*google>=2.0.1*
 
 # 5. Licence
 This program is free software: you can redistribute it and/or modify
