@@ -20,6 +20,8 @@
     
     3.6 [Analyzing A Document](https://github.com/javadmokhtari/mochgir#36-analyzing-a-document)
     
+    3.7 [Exporting Result](http://www.google.com)
+    
 4. [Requirements](https://github.com/javadmokhtari/mochgir#4-requirements)
 5. [License](https://github.com/javadmokhtari/mochgir#5-licence)
 5. [Credit](https://github.com/javadmokhtari/mochgir#6-credit)
@@ -95,6 +97,10 @@ Mochgir is a small-tool for detecting plagiarism. It's lightweight and written w
 >>> result = Analyze.analyze(translated_document)
 ```
 
+   ### 3.7 Exporting Result
+   Right now, text file (.txt) is the only available format for exporting analysis results. you can use `export_text()`, `export_list()` and `export_document()` methods for different situations. Support for other formats like PDF will be added soon.
+   
+   NOTE: you need to pass export path to the above methods.
 # 4. Requirements
 *requests>=2.19.1*
 
