@@ -112,9 +112,11 @@ Mochgir is a small-tool for detecting plagiarism. It's lightweight and written w
 # 4. Requirements
 *requests>=2.19.1*
 
-*docx>=0.2.4*
+*python-docx>=0.2.4*
 
 *google>=2.0.1*
+
+*reportlab>=3.4.0*
 
 # 5. Licence
 This program is free software: you can redistribute it and/or modify
