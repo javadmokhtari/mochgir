@@ -102,7 +102,7 @@ Mochgir is a small-tool for detecting plagiarism. It's lightweight and written w
 >>> from mochgir import Analyze
 >>> document_path = 'C:\ppp.docx'
 >>> translated_document = Translate.translate_document(document_path)
->>> result = Analyze.analyze_document(translated_document)
+>>> result = Analyze.analyze_list(translated_document)
 ```
 
    ### 3.7 Exporting Result
