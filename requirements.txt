@@ -1,0 +1,4 @@
+requests>=2.19.1
+docx>=0.2.4
+google>=2.0.1
+reportlab>=3.4.0
