@@ -106,7 +106,9 @@ Mochgir is a small-tool for detecting plagiarism. It's lightweight and written w
 ```
 
    ### 3.7 Exporting Result
-   Right now, text file (.txt) is the only available format for exporting analysis results. you can use `export_text()`, `export_list()` and `export_document()` methods for different situations. Support for other formats like PDF will be added soon.
+   Right now, txt and pdf are the only available formats for exporting analysis results. you can use `export()` and `export_to_pdf()` methods for different situations. Support for other formats will be added soon.
+   
+   ![export_to_pdf](https://github.com/javadmokhtari/mochgir/blob/master/export_to_pdf.png?raw=true)
    
    NOTE: you need to pass export path to the above methods.
 # 4. Requirements
