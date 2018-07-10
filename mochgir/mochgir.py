@@ -1,7 +1,6 @@
 import json
 import string
 from time import sleep
-import time
 
 import requests
 from docx import Document
