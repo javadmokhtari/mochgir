@@ -3,7 +3,7 @@
 
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
-پروژه درس طراحی الگوریتم - دانشگاه بوعلی سینا
+پروژه درس طراحی الگوریتم - دانشگاه بوعلی سینا همدان - تیر ماه 1397
 
 
 # Proof Of Concept
