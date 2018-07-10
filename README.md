@@ -7,7 +7,7 @@
 
 
 # Proof Of Concept
-1. [Introduction](https://github.com/javadmokhtari/mochgir/blob/master/README.md#1-introduction)
+1. [Introduction](https://github.com/javadmokhtari/mochgir#1-introduction)
 2. [Installation](https://github.com/javadmokhtari/mochgir#2-installation)
 
     2.1 [Install Using Pip](https://github.com/javadmokhtari/mochgir#21-using-pip)
