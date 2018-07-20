@@ -13,12 +13,6 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from .conf.consts import *
 
 
-# TODO: Update README.MD in github, and replace it with current readme in project folder
-# TODO: Create installable package with  pip
-# TODO: Mochgir only works with Python 3.x
-# TODO: Writing some good example, for each part of package
-# TODO: Analyze.export_to_pdf(Analyze.analyze('Mehrad Hidden', 3)) produces 15 results, why?
-# TODO: Create a diagram / schema for whole package
 class DocumentHandler(object):
     def __init__(self, file_name):
         """  
@@ -348,3 +342,4 @@ class Analyze(object):
                 report.append(Spacer(1, 12))
 
         doc.build(report)
+
